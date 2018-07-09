@@ -26,7 +26,6 @@ public class Country {
     }
 
     public void setCountrycode(String countrycode) {
-
         Countrycode = countrycode;
     }
 }
