@@ -8,6 +8,8 @@ public class SysRole {
     private Long enabled;
     private Long createBy;
     private Date createTime;
+    private SysUser user;
+
 
     public Long getRoleId() {
         return roleId;
